@@ -1,0 +1,1 @@
+# clash-discord-rule-provider
